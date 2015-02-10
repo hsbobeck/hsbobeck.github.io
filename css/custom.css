@@ -141,13 +141,13 @@ footer {
     color: white;
 }
 
-#logo-header {
-    margin-top: 12px;
+.navbar-brand h3 {
+    margin-top: -3px;
     color: white;
     font-weight:900;
 }
 
-#logo-header span {
+.navbar-brand span {
     color: #AFAEAE;
     font-weight:100;
 }
